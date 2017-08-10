@@ -1,0 +1,66 @@
+body {
+  background-image: url('../img/simpsons.jpg');
+  background-repeat:  no-repeat;
+  background-color: #F7F4FD;
+
+}
+
+/*style for Header 1 Title*/
+.title {
+	text-align:center;
+	font-size:50px;
+}
+
+/*style for correct answers*/
+#correct {
+	color:green;
+}
+
+/*style for incorrect answers*/
+#incorrect {
+	color:red;
+}
+
+/*style for question divs*/
+.form-group > div {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.1;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.correct {
+  color: green;
+
+}
+
+.incorrect {
+  color: red;
+
+}
+
+.imageClass {
+  width:50px;
+  height: 50px;
+}
+
+.form-control  {
+  background: none;
+}
+
+.logo {
+  width: 500px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+.woohoo {
+  width: 100px;
+  border-radius: 20px;
+}
+
+.doh {
+  width: 100px;
+  border-radius: 20px;
+}
